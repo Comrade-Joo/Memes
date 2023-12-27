@@ -1,0 +1,55 @@
+h1 {
+  text-transform: uppercase;
+  color: white;
+  text-align: center;
+  font-family: "Caveat", cursive;
+  font-family: "Libre Baskerville", serif;
+}
+div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+body {
+  background-color: black;
+}
+.x {
+  margin-top: 25px;
+}
+.y {
+  margin-top: 25px;
+}
+.image-1 {
+  border: 5px solid white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.image-2 {
+  border: 5px solid white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+p {
+  color: white;
+}
+.image-cropper {
+  max-width: 100px;
+  height: auto;
+  position: relative;
+  overflow: hidden;
+}
+
+.rounded {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+}
+.about {
+  margin-top: 25px;
+}
